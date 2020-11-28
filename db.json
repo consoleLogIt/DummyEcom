@@ -1,0 +1,7 @@
+products{
+data:data[{
+name:"product1",
+description:"description1",
+price:"price1"
+}]
+}
