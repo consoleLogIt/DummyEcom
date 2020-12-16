@@ -4,7 +4,7 @@
       "title": "Fridge",
       "price": "999",
       "ratings":4,
-      "des":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
+      "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
       "editMode":false,
       "imgUrl":"https://kitchenaid-h.assetsadobe.com/is/image/content/dam/business-unit/whirlpool/en-us/marketing-content/site-assets/page-content/refrigerator-sclp/Images/masthead/WHP_ReferSCLP_Mobile_IMG3x-updated.jpg?fit=constrain&fmt=jpg&utc=2018-09-19T19:00:56Z&wid=1245"
     },
@@ -12,7 +12,7 @@
      "title": "TV",
       "price": "999",
       "ratings":4,
-      "des":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
+      "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
       "editMode":false,
       "imgUrl":"https://images.samsung.com/is/image/samsung/in-uhd-tv-tu8570-ua65tu8570uxxl-frontblack-226347499?$720_576_PNG$"
     },
@@ -20,7 +20,7 @@
      "title": "Washing Machine",
       "price": "999",
       "ratings":4,
-      "des":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
+      "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
       "editMode":false,
       "imgUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqEgoTquFcglerIu3-txNQzRcpbLR_VlOBlw&usqp=CAU"
     },
@@ -28,7 +28,7 @@
      "title": "AC",
       "price": "999",
       "ratings":4,
-      "des":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
+      "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
       "editMode":false,
       "imgUrl":"https://www.unboxstory.com/wp-content/uploads/2019/08/1-6.jpg"
     },
@@ -36,7 +36,7 @@
      "title": "Phone",
       "price": "999",
       "ratings":4,
-      "des":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
+      "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
       "editMode":false,
       "imgUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Fire_Phone.jpg/1200px-Fire_Phone.jpg"
     }
