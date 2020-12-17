@@ -2,7 +2,7 @@
   "products": [
     {
       "title": "Fridge",
-      "price": "999",
+      "price": "9999",
       "rating":4,
       "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
       "editMode":false,
@@ -10,7 +10,7 @@
     },
     {
      "title": "TV",
-      "price": "999",
+      "price": "4999",
       "rating":4,
       "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
       "editMode":false,
@@ -18,7 +18,7 @@
     },
     {
      "title": "Washing Machine",
-      "price": "999",
+      "price": "7999",
       "rating":4,
       "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
       "editMode":false,
@@ -26,7 +26,7 @@
     },
     {
      "title": "AC",
-      "price": "999",
+      "price": "20000",
       "rating":4,
       "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
       "editMode":false,
@@ -34,7 +34,7 @@
     },
     {
      "title": "Phone",
-      "price": "999",
+      "price": "10000",
       "rating":4,
       "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
       "editMode":false,
