@@ -2,6 +2,7 @@
   "products": [
     {
       "title": "Fridge",
+      "id":1,
       "price": "9999",
       "rating":4,
       "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
@@ -10,6 +11,7 @@
     },
     {
      "title": "TV",
+      "id":2,
       "price": "4999",
       "rating":4,
       "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
@@ -18,6 +20,7 @@
     },
     {
      "title": "Washing Machine",
+      "id":3,
       "price": "7999",
       "rating":4,
       "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
@@ -26,6 +29,7 @@
     },
     {
      "title": "AC",
+      "id":4,
       "price": "20000",
       "rating":4,
       "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
@@ -34,6 +38,7 @@
     },
     {
      "title": "Phone",
+      "id":5,
       "price": "10000",
       "rating":4,
       "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
