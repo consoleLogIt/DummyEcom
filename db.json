@@ -44,15 +44,6 @@
       "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
       "editMode":false,
       "imgUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Fire_Phone.jpg/1200px-Fire_Phone.jpg"
-    },
-     {
-     "title": "cream",
-      "id":6,
-      "price": "10000000",
-      "rating":5,
-      "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
-      "editMode":false,
-      "imgUrl":"https://media.glamour.com/photos/56966165eaefd309768db00e/master/w_1600%2Cc_limit/beauty-blogs-girls-in-the-beauty-department-2009-05-04-0504-face_cream_bd.jpg"
-     }
+    }
   ]
 } 
